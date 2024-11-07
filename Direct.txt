@@ -537,7 +537,6 @@ DOMAIN-SUFFIX,zhuihd.com
 DOMAIN-SUFFIX,alist.nn.ci
 DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,ottdns.com
-DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,dyndns.com
 DOMAIN-SUFFIX,st.dl.bscstorage.net
 DOMAIN-SUFFIX,st.dl.eccdnx.com
@@ -592,5 +591,3 @@ IP-CIDR,223.6.6.6/32,no-resolve
 IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
-IP-CIDR,116.116.116.116/32,no-resolve
-IP-CIDR,223.5.88.88/32,no-resolve
