@@ -74,4 +74,7 @@ DOMAIN-SUFFIX,sublimetext.com
 DOMAIN-SUFFIX,sourceshop.app
 DOMAIN-SUFFIX,liberashop.rs
 DOMAIN-SUFFIX,xueximeng.com
+DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,googleapis.com
+
