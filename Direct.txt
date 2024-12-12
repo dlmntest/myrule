@@ -566,7 +566,8 @@ DOMAIN-SUFFIX,mhealth100.com
 DOMAIN-SUFFIX,ixbk.net
 DOMAIN-SUFFIX,ixbk.fun
 DOMAIN-SUFFIX,xianbao.fun
-#DOMAIN-SUFFIX,dlmntest.site
+DOMAIN-SUFFIX,dlmntest.site
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 # IP段
 IP-CIDR,116.116.116.116/32,no-resolve
 IP-CIDR,221.5.88.88/32,no-resolve
