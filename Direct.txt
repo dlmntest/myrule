@@ -534,6 +534,7 @@ DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
 # 自定义
+DOMAIN-SUFFIX,dsp.fcbox.com
 DOMAIN-SUFFIX,alist.nn.ci
 DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,ottdns.com
