@@ -571,6 +571,7 @@ DOMAIN-SUFFIX,dlmntest.site
 #DOMAIN-SUFFIX,services.googleapis.cn
 #DOMAIN-SUFFIX,googleapis.cn
 #DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-KEYWORD,hdlive.online
 IP-CIDR,132.226.14.46/32
 IP-CIDR,158.179.191.172/32
 IP-CIDR,150.230.202.86/32
