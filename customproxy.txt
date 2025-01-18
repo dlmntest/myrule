@@ -64,7 +64,6 @@ DOMAIN-SUFFIX,xueximeng.com
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,hysteria.network
 DOMAIN-KEYWORD,hdlive.online
-DOMAIN-KEYWORD,qunar
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
