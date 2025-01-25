@@ -569,6 +569,7 @@ DOMAIN-SUFFIX,ixbk.fun
 DOMAIN-SUFFIX,xianbao.fun
 DOMAIN-SUFFIX,dlmntest.site
 DOMAIN-SUFFIX,dlmntest.us.kg
+DOMAIN-SUFFIX.right.com.cn
 #DOMAIN-SUFFIX,services.googleapis.cn
 #DOMAIN-SUFFIX,googleapis.cn
 #DOMAIN-SUFFIX,xn--ngstr-lra8j.com
