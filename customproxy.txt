@@ -65,10 +65,10 @@ DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,hysteria.network
 DOMAIN-KEYWORD,hdlive.online
 DOMAIN-KEYWORD,macked.app
-#DOMAIN-KEYWORD,mo.666291.xyz
-#DOMAIN-KEYWORD,mo.muouso.fun
-#DOMAIN-KEYWORD,tv.91muou.icu
-#DOMAIN-KEYWORD,muou.6qu.top
+DOMAIN-KEYWORD,mo.666291.xyz
+DOMAIN-KEYWORD,mo.muouso.fun
+DOMAIN-KEYWORD,tv.91muou.icu
+DOMAIN-KEYWORD,muou.6qu.top
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
