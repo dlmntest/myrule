@@ -569,7 +569,6 @@ DOMAIN-SUFFIX,mhealth100.com
 DOMAIN-SUFFIX,ixbk.net
 DOMAIN-SUFFIX,ixbk.fun
 DOMAIN-SUFFIX,xianbao.fun
-DOMAIN-SUFFIX,us.kg
 DOMAIN-SUFFIX,dlmntest.site
 DOMAIN-SUFFIX,dlmntest.us.kg
 DOMAIN-SUFFIX,right.com.cn
