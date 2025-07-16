@@ -570,7 +570,7 @@ DOMAIN-SUFFIX,ixbk.net
 DOMAIN-SUFFIX,ixbk.fun
 DOMAIN-SUFFIX,xianbao.fun
 DOMAIN-SUFFIX,dlmntest.site
-DOMAIN-SUFFIX,dlmntest.us.kg
+DOMAIN-SUFFIX,140505.xyz
 DOMAIN-SUFFIX,right.com.cn
 DOMAIN-SUFFIX,jdd51.com
 IP-CIDR,132.226.14.46/32,no-resolve
