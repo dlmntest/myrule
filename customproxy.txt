@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,followme.com
 DOMAIN-SUFFIX,followme.ceo
 DOMAIN-SUFFIX,whatsmydns.me
 DOMAIN-SUFFIX,hostloc.net
+DOMAIN-KEYWORD,52xinghe.top
 DOMAIN-SUFFIX,tmgm.com
 DOMAIN-SUFFIX,plexapp.com
 DOMAIN-SUFFIX,plexmediaserver.com
