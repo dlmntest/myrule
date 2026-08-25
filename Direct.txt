@@ -574,6 +574,7 @@ DOMAIN-SUFFIX,dlmntest.site
 DOMAIN-SUFFIX,140505.xyz
 DOMAIN-SUFFIX,right.com.cn
 DOMAIN-SUFFIX,jdd51.com
+DOMAIN-SUFFIX,dlmntest.dpdns.org
 IP-CIDR,132.226.14.46/32,no-resolve
 IP-CIDR,158.179.191.172/32,no-resolve
 IP-CIDR,150.230.202.86/32,no-resolve
