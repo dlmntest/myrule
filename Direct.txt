@@ -575,3 +575,4 @@ DOMAIN-SUFFIX,140505.xyz
 DOMAIN-SUFFIX,right.com.cn
 DOMAIN-SUFFIX,jdd51.com
 DOMAIN-SUFFIX,dlmntest.dpdns.org
+DOMAIN-SUFFIX,hostbuf.com
